@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Zoutons</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<div class="logo">
+			<img src="logo.png" alt="Zoutons Logo">
+		</div>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Categories</a></li>
+				<li><a href="#">Featured Stores</a></li>
+				<li><a href="#">Stores</a></li>
+				<li><a href="#">Top Coupons</a></li>
+				<li><a href="#">Login</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section class="featured-stores">
+			<h2>Featured Stores</h2>
+			<ul>
+				<li><a href="#"><img src="uni.png" alt="UNI"></a></li>
+				<li><a href="#"><img src="air-india.png" alt="Air India"></a></li>
+				<li><a href="#"><img src="cro.png" alt="クロ"></a></li>
+				<li><a href="#"><img src="qlo.png" alt="QLO"></a></li>
+				<li><a href="#"><img src="lenovo.png" alt="Lenovo"></a></li>
+				<li><a href="#"><img src="puma.png" alt="PUMA®"></a></li>
+				<li
