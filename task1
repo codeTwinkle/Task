@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zoutons</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Zoutons Logo">
+        </div>
+        <div class="search-bar">
+            <input type="text" placeholder="Search for coupons, deals, and stores">
+            <button>Search</button>
+        </div>
+        <div class="login-button">
+            <button>Login</button>
+        </div>
+    </header>
+    <main>
+        <section class="categories">
+            <h2>Categories</h2>
+            <div class="category-grid">
+                <div class="category-item">
+                    <img src="category1.png" alt="Category 1">
+                    <p>Category 1</p>
+                </div>
+                <div class="category-item">
+                    <img src="category2.png" alt="Category 2">
+                    <p>Category 2</p>
+                </div>
+                <div class="category-item">
+                    <img src="category3.png" alt="Category 3">
+                    <p>Category 3</p>
+                </div>
+                <div class="category-item">
+                    <img src="category4.png" alt="Category 4">
+                    <p>Category 4</p>
+                </div>
+                <div class="category-item">
+                    <img src="category5.png" alt="Category 5"
+
+</div>
